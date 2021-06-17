@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anand K
+- 👋 Hi, I’m Anand Kanti
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
