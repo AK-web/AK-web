@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Angular-CLI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AK-web?tab=repositories](https://github.com/AK-web?tab=repositories)
+- 👨‍💻 All of my projects are available at [Anand Kanti](https://github.com/AK-web?tab=repositories)
 
 - 💬 Ask me about **Java, Spring and Angular**
 
