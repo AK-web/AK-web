@@ -1,4 +1,4 @@
-<!-- 👋 Hi, I’m Anand Kanti
+<!-- 👋 Hi, I’m Anand 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
@@ -9,18 +9,18 @@ AK-web/AK-web is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Anand Kanti</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anand</h1>
+<h3 align="center">A young-dumb 🤓 software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-web&label=Profile%20views&color=0e75b6&style=flat" alt="ak-web" /> </p>
 
-- 🌱 I’m currently learning **Angular-CLI**
+- 🌱 I’m currently learning **React.Js**
 
 - 👨‍💻 All of my projects are available at [Anand Kanti](https://github.com/AK-web?tab=repositories)
 
-- 💬 Ask me about **Java, Spring and Angular**
+- 💬 Ask me about **Java, Spring and MySql**
 
-- 📫 How to reach me **anandkkanti@gmail.com**
+- 📫 How to reach me **anandkanti113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
