@@ -10,17 +10,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A young-dumb 🤓 software engineer from India</h3>
+<h3 align="center">A software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-web&label=Profile%20views&color=0e75b6&style=flat" alt="ak-web" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [Anand Kanti](https://github.com/AK-web?tab=repositories)
 
-- 💬 Ask me about **Java, Spring and MySql**
+- 💬 Ask me about **Java, Js, React, Spring**
 
 - 📫 How to reach me **anandkanti113@gmail.com**
+
+- This is my portfolio 👨‍💻 [Anand Kanti](https://ak-web.github.io/Anand_kanti/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
