@@ -1,13 +1,3 @@
-<!-- 👋 Hi, I’m Anand 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me annktech@gmail.com --->
-
-<!---
-AK-web/AK-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A software engineer from India</h3>
@@ -26,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anand-k-02016b2b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-kanti-4b0bb114a" height="30" width="40" /></a>
-  <a href="https://twitter.com/kanti_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanti_anand" height="30" width="40" /></a>
+  <a href="https://twitter.com/kanti_anand" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="kanti_anand" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
