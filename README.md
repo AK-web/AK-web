@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anandkanti113@gmail.com**
 
-- This is my portfolio 👨‍💻 [Anand Kanti](https://ak-web.github.io/Anand_kanti/)
+- This is my portfolio 👨‍💻 [Anand Kanti](https://anand-kanti.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
